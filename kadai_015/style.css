@@ -1,8 +1,9 @@
-body {
-    font-family: "Arial", "Meiryo";
-}
-.decoretion { 
+html { 
     font-size: 20px;
+}
+body {
+    font-family: "Arial", "Meiryo",sans-serif;
+    text-align: center;
 }
  .blue {
     color: skyblue;
@@ -11,25 +12,17 @@ body {
     color: rgb(255, 192, 203)
 }
 
-body {
+h1 {
     font-family: "Josefin Sans", sans-serif;
     font-optical-sizing: auto;
     font-weight: weight;
     font-style: normal;;
-    font: size 40px;
-   
-    
-    text-align: center;
-}
-
- h1{ 
+    font-size :2rem;
     border-bottom: solid 3px rgb(115,115,114);
     text-shadow: 3px 3px 3px gray;
-     letter-spacing: 48px;
- 
+    letter-spacing: 1.2em;
  }  
  
- div {
-    font-weight: bold;
- }
+#basic > div{
+    font-weight: bold; }
 
